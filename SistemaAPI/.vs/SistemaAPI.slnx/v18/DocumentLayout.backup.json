@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\Mis Documentos\\Desarrollo de Software Empresarial\\Tei DSE104\\PROYECTO\\SistemaAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80EA81A0-447D-192E-7A68-BBABA9E9FC0F}|SistemaAPI\\SistemaAPI.csproj|c:\\users\\ferna\\onedrive\\documentos\\mis documentos\\desarrollo de software empresarial\\tei dse104\\proyecto\\sistemaapi\\sistemaapi\\migrations\\20261004210319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EA81A0-447D-192E-7A68-BBABA9E9FC0F}|SistemaAPI\\SistemaAPI.csproj|solutionrelative:sistemaapi\\migrations\\20261004210319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EA81A0-447D-192E-7A68-BBABA9E9FC0F}|SistemaAPI\\SistemaAPI.csproj|c:\\users\\ferna\\onedrive\\documentos\\mis documentos\\desarrollo de software empresarial\\tei dse104\\proyecto\\sistemaapi\\sistemaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EA81A0-447D-192E-7A68-BBABA9E9FC0F}|SistemaAPI\\SistemaAPI.csproj|solutionrelative:sistemaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261004210319_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documentos\\Mis Documentos\\Desarrollo de Software Empresarial\\Tei DSE104\\PROYECTO\\SistemaAPI\\SistemaAPI\\Migrations\\20261004210319_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SistemaAPI\\Migrations\\20261004210319_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documentos\\Mis Documentos\\Desarrollo de Software Empresarial\\Tei DSE104\\PROYECTO\\SistemaAPI\\SistemaAPI\\Migrations\\20261004210319_InitialCreate.cs",
+              "RelativeToolTip": "SistemaAPI\\Migrations\\20261004210319_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:03:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Documentos\\Mis Documentos\\Desarrollo de Software Empresarial\\Tei DSE104\\PROYECTO\\SistemaAPI\\SistemaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Documentos\\Mis Documentos\\Desarrollo de Software Empresarial\\Tei DSE104\\PROYECTO\\SistemaAPI\\SistemaAPI\\Program.cs",
+              "RelativeToolTip": "SistemaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:01:23.804Z",
+              "EditorCaption": ""
             }
           ]
         }

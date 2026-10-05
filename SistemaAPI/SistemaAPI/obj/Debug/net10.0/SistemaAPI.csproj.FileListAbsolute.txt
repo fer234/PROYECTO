@@ -167,3 +167,5 @@ C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresa
 C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresarial\Tei DSE104\PROYECTO\SistemaAPI\SistemaAPI\obj\Debug\net10.0\SistemaAPI.pdb
 C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresarial\Tei DSE104\PROYECTO\SistemaAPI\SistemaAPI\obj\Debug\net10.0\SistemaAPI.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresarial\Tei DSE104\PROYECTO\SistemaAPI\SistemaAPI\obj\Debug\net10.0\ref\SistemaAPI.dll
+C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresarial\Tei DSE104\PROYECTO\SistemaAPI\SistemaAPI\bin\Debug\net10.0\web.config
+C:\Users\ferna\OneDrive\Documentos\Mis Documentos\Desarrollo de Software Empresarial\Tei DSE104\PROYECTO\SistemaAPI\SistemaAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
